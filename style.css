@@ -13,7 +13,7 @@ body {
     width: 100%;
     min-height: 100%;
     position: relative;
-    background-image: url("/assets/main-cover.jpg");
+    background-image: url("./assets/main-cover.jpg");
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: 100%;
@@ -25,7 +25,7 @@ body {
 }
 
 .phone-hand {
-    background-image: url("/assets/mobile.png");
+    background-image: url("./assets/mobile.png");
     width: 644px;
     height: 792px;
        /* min-width: 400px;
